@@ -1,8 +1,23 @@
 # WhatsApp_UI_Android
 Here is the WhatsApp UI which i create in Android Studio.
 
-![Screenshot_20221122-210847_WhatsApp](https://user-images.githubusercontent.com/108947868/213872631-47aa3417-8657-472c-9b24-f2867c889882.jpg)
-![Screenshot_20221122-210850_WhatsApp](https://user-images.githubusercontent.com/108947868/213872632-b127be26-45f4-494e-99f2-10c0e989c50e.jpg)
-![Screenshot_20221122-210900_WhatsApp](https://user-images.githubusercontent.com/108947868/213872637-5e45612f-0d0c-4bfc-ad68-dfdf34939e0e.jpg)
-![Screenshot_20221122-210905_WhatsApp](https://user-images.githubusercontent.com/108947868/213872623-46c05df8-8d83-4528-ac00-4b39c99d1ce0.jpg)
-![Screenshot_20221122-211236_WhatsApp](https://user-images.githubusercontent.com/108947868/213872628-ea324944-fbfc-4273-821b-fdc0e4c985af.jpg)
+Topics which i cover in it are :
+1.Linear Layout
+2.Relative Layout
+3.AppBar Layout
+4.Tab Layout
+5.Splash Screen
+6.RecyclerView
+7.Custom Toolbar
+8.Custom Menu
+9.Fragments
+10.Dialog
+11.ViewPager2
+12.FragmentStateAdapter
+13.RecyclerViewAdapter
+
+![Screenshot_20230121-191252_WhatsApp](https://user-images.githubusercontent.com/108947868/213872932-032d4ff0-79c8-4cfd-95dd-413cd700a240.jpg)
+![Screenshot_20230121-191304_WhatsApp](https://user-images.githubusercontent.com/108947868/213872934-59c47d3f-1ee5-44d1-80a3-3f735f263b80.jpg)
+![Screenshot_20230121-191311_WhatsApp](https://user-images.githubusercontent.com/108947868/213872938-1fece2bb-763c-45ae-84a1-a3464bf561d7.jpg)
+![Screenshot_20230121-191322_WhatsApp](https://user-images.githubusercontent.com/108947868/213872940-29b62c8a-f504-46b6-9673-749e8ca58a18.jpg)
+![Screenshot_20230121-191404_WhatsApp](https://user-images.githubusercontent.com/108947868/213872930-e9d1f4bf-d9c5-4e61-b91c-1e3aed52c852.jpg)
