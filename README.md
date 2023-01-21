@@ -2,19 +2,33 @@
 Here is the WhatsApp UI which i create in Android Studio.
 
 Topics which i cover in it are :
+
 1.Linear Layout
+
 2.Relative Layout
+
 3.AppBar Layout
+
 4.Tab Layout
+
 5.Splash Screen
+
 6.RecyclerView
+
 7.Custom Toolbar
+
 8.Custom Menu
+
 9.Fragments
+
 10.Dialog
+
 11.ViewPager2
+
 12.FragmentStateAdapter
+
 13.RecyclerViewAdapter
+
 
 ![Screenshot_20230121-191252_WhatsApp](https://user-images.githubusercontent.com/108947868/213872932-032d4ff0-79c8-4cfd-95dd-413cd700a240.jpg)
 ![Screenshot_20230121-191304_WhatsApp](https://user-images.githubusercontent.com/108947868/213872934-59c47d3f-1ee5-44d1-80a3-3f735f263b80.jpg)
